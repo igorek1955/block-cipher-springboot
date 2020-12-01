@@ -1,7 +1,7 @@
 # Block Cipher - Spring Boot App
 
 - Application's frontend was build with Thymeleaf and Bootstrap.
-- By default this will only run in browser and on port 8080.
+- By default, application will only run in browser and on port 8080.
 - Database in use is H2 - in memory db.
 - Logging files folder : /logs/
 
